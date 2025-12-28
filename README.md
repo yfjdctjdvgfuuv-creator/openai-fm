@@ -83,8 +83,15 @@ For more information about text-to-speech using the OpenAI API, check out our [d
 
 ### Contributing
 
-You are welcome to open issues or submit PRs to improve this app, however, please note that we may not review all suggestions.
+.
 
-## License
+## LicenseYou are welcome to open issues or submit PRs to improve this app, however, please note that we may not review all suggestions 🎬 Scene 1 (0–4 sec)
+🌄 Subah ka gaon
+Kachcha rasta, ped, mitti ke ghar
+Ek pyara doggy zameen par baitha hai
+Uske pair par chot lagi hui, aankhon mein dard
+🎵 Soft emotional music
+
+
 
 This project is licensed under the MIT License. See the LICENSE file for details.
